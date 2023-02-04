@@ -1,4 +1,4 @@
-Hello, I am a front-end developer specializing in building exceptional web applications, and everything in between. I play around with Javascript ,creating web interfaces with accessibility in mind, prioritising UX.
+Hello, I am a full-stack developer specializing in building exceptional web applications, and everything in between. I play around with Javascript ,creating web interfaces with accessibility in mind, prioritising UX.
 
 ## 🌐 Socials:
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kanupriyabasoya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanupriyabasoya) 
